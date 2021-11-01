@@ -6,4 +6,4 @@ My [templates] are listed [here][templates]:
 
 
 [templates]: /templates
-[template-readme]: /templates/TEMPLADE-README.md
+[template-readme]: /templates/TEMPLATE-README.md
