@@ -1,4 +1,4 @@
-### Hi there 👋template-
+### Hi there 👋
 
 My [templates] are listed [here][templates]:
 - [README.md][template-readme]
